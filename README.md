@@ -1,1 +1,1 @@
-# Relacion-6-Strings_Bssico-DLM
+# Relacion-6-Strings_Basico-DLM
