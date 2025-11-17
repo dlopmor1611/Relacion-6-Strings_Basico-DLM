@@ -27,7 +27,7 @@ public class Ej03 {
 
         } while ( cadcar.length() != 1 );
 
-        for ( int i = 0; i < cad.length()-1 ; i++ ) {
+        for ( int i = 0; i < cad.length() ; i++ ) {
             if (car == cad.charAt(i)) {
             cont++;
         }
@@ -40,3 +40,4 @@ public class Ej03 {
     }
 
 }
+
