@@ -10,7 +10,7 @@ public class Ej01 {
         System.out.print("Introduzca su nombre: ");
         nombre = teclado.nextLine();
 
-        for ( int i = 0; i < nombre.length()-1 ; i++ ) {
+        for ( int i = 0; i < nombre.length() ; i++ ) {
             System.out.println(nombre.charAt(i));
         }
 
@@ -18,3 +18,4 @@ public class Ej01 {
     }
 
 }
+
